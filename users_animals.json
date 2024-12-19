@@ -1,0 +1,13 @@
+users_animals_api
+A simple API endpoints that shows list of animals of different users.
+users_animals.json
+{
+   "data":|
+ [
+  {
+    "id":1
+    "userName: "Stephen Rodrigues",
+    "animalName: "Bret"
+    "animalImage: "https://www.vecteezy.com/free-photos/cat.jpg",
+    "isFriendly: "true"
+ }	 
