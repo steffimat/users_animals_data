@@ -10,4 +10,13 @@ users_animals.json
     "animalName: "Bret"
     "animalImage: "https://www.vecteezy.com/free-photos/cat.jpg",
     "isFriendly: "true"
+
+      "data":|
+ [
+  {
+    "id":2
+    "userName: "Henry Mcromik",
+    "animalName: "Brpwn"
+    "animalImage: "https://www.vecteezy.com/free-photos/cat.jpg",
+    "isFriendly: "false"
  }	 
